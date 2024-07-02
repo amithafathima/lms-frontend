@@ -1,0 +1,104 @@
+*
+{
+    font-family: 'Exo 2';
+    padding: 0px;
+    margin: 0px;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------- */
+                                                     /* BANNER */
+
+        .banner
+        {
+            height: 650px;
+           background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            z-index: -1;
+            filter: 'blur(5px)';
+            width: 100%;
+            margin-left: 12px;
+           
+                  
+        }   
+
+        .banner1
+        {
+            height: 560px;
+           background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            z-index: -1;
+            filter: 'blur(5px)';
+            width: 100%;
+            margin-left: 12px;
+           
+                  
+        }   
+        #card1
+        {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJhtYwjERdYwkkFeVaiT69AcKxHyZ_hEGtQ&s);
+            background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            filter: 'blur(5px)';
+        }
+        #card2
+        {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjRHCF7wE9_C5ymzHX_EcZU7-x0TGPzW331M04GHcFUo8BkQPUn_LXhV21yGhhqdcKrs&usqp=CAU);
+            background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            filter: 'blur(5px)';
+        }
+        #card3
+        {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeLDD1fpWypdu8yTAzUm1QktPMOGvhG3Oll9P6K9xod-8iI3preIb-VYTp4xdMkMd85A&usqp=CAU);
+            background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            filter: 'blur(5px)';
+        }
+
+        #nav
+        {
+            background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            filter: 'blur(5px)';
+        }
+        #login
+    {
+        background-image: url(https://t4.ftcdn.net/jpg/04/77/32/15/360_F_477321513_Tlof8u7Lhfo36PTECAZ9NPFjNHH9lEwn.jpg);
+        background-position: center;
+           background-size: cover;
+            background-repeat: no-repeat;
+            filter: 'blur(7px)';
+    }
+
+
+
+.table-styled {
+  border: 1px solid #dee2e6;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.table-styled thead {
+  background-color: #343a40;
+  color: white;
+}
+
+.table-styled tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.table-styled th, .table-styled td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.swal2-custom {
+    font-size: 14px; /* Adjust the font size as needed */
+  }
+        
+                                   
